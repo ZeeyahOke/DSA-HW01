@@ -1,6 +1,6 @@
 # Sparse Matrix Operations in JavaScript
 
-This project objective is to perform operations on large sparse matrices using efficient data structures and custom code.
+The objective of this project is to perform operations on large, sparse matrices using efficient data structures and custom code.
 
 ---
 
@@ -114,7 +114,7 @@ Internally stores non-zero entries in a JavaScript object using `row: { col: val
 * Ignores empty lines or extra whitespaces
 * Throws error if:
 
-  * Dimensions mismatch during addition/subtraction
+  * Dimension mismatch during addition/subtraction
   * Invalid characters, formats, or floating points in the input file
 
 ---
@@ -151,22 +151,13 @@ Select `2` for subtraction.
 
 ## 📚 References & Credits
 
-* Developed as part of "Data Structures and Algorithms for Engineers" course.
+* Developed as part of "Enterprise Web Development" course.
 * Matrix format provided by course instructors.
 * JavaScript runtime: Node.js v22+
 
 ---
 
-## 📬 Contact
-
-For questions or suggestions, feel free to reach out:
-
-* **Developer:** Hassan Adelani Luqman
+* **Developer:** Fawziyyah Oladunni Oke
 
 ---
 
-## 📌 License
-
-This project is part of a course assignment and is not licensed for commercial use.
-
-```
